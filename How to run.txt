@@ -1,0 +1,10 @@
+You need three things first: your own copy of Undertale (for example from Steam), UndertaleModTool, and the BossTextMod.csx file I sent. UndertaleModTool is free on GitHub (search “UndertaleModTool” by UnderminersTeam). It’s mainly a Windows program.
+
+Back up the game file. Find your Undertale install folder (on Steam: right-click the game, then Manage, then Browse local files). Copy data.win somewhere safe.
+Open UndertaleModTool and choose File > Open, then select data.win from the install folder. It can take a minute to load.
+Run the script. Go to Scripts > Run other script..., then pick BossTextMod.csx.
+Check the popup. When it finishes, a message lists what was applied and anything it skipped. If the boss parts say “SKIPPED”, your game version uses different internal names, and you can send me the message so I can adjust the script.
+Save. Choose File > Save. Without this, nothing changes in the game.
+Launch Undertale and fight the first Froggit-type enemy to meet Captain Crumb.
+
+If something goes wrong, copy your backup data.win back over the modded one to restore the original game.
